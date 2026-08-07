@@ -1,18 +1,19 @@
 
 ---
-## **Table of Contents**
+### **Table of Contents**
 
 - [Vault](#Vault)
-- [Base in Obsidian](#Base in obsidian)
-- [Insert Template](#Insert Template)
-- [Templates vs Bases](#Templates vs Bases)
-- [Canvas in Obsidian](#Canvas in Obsidian)
-- [Note Links in Obsidian](#Note Links in Obsidian)
-- [The Important Obsidian Pieces](#The Important Obsidian Pieces)
+- [Base in Obsidian](#Base_in_obsidian)
+- [Insert Template](#Insert_Template)
+- [Templates vs Bases](#Templates_vs_Bases)
+- [Canvas in Obsidian](#Canvas_in_Obsidian)
+- [Note Links in Obsidian](#Note_Links_in_Obsidian)
+- [Tags in Obsidian](#Tags_in_Obsidian)
+- [The Important Obsidian Pieces](#The_Important_Obsidian_Pieces)
 
 ---
 
-## **Vault**
+### **Vault**
 
 Vault in obsidian is like a knowledge base or  "A folder of Mark Down files (.md)". To create a Vault or open an existing Vault:
 - Expand the file view and see the bottom left corner
@@ -93,7 +94,7 @@ The folders give us **physical organization**; the links give us **knowledge org
 
 ---
 
-## **Base in Obsidian**
+### **Base_in_Obsidian**
 
 **Bases** aren't simply another kind of note. A Base is essentially a **database-like view of our notes**. Imagine we have:
 
@@ -171,7 +172,7 @@ AsyncNotifier Advanced         Learning
 
 ---
 
-## **Insert Template**
+### **Insert_Template**
 
 Templates are basically reusable note structures. Suppose whenever we learn something technical, we want our notes to have:
 
@@ -218,11 +219,11 @@ Templates are especially useful for things like:
 
 ---
 
-## **Templates vs Bases**
+### **Templates_vs_Bases**
 
 These are completely different things.
 
-### Template
+#### Template
 
 Helps us **create notes consistently**.
 
@@ -234,7 +235,7 @@ New Note
 Same structure every time
 ```
 
-### Base
+#### Base
 
 Helps us **organize/view existing notes**.
 
@@ -265,7 +266,7 @@ Shows all movies in a table
 
 ---
 
-## **Canvas in Obsidian**
+### **Canvas_in_Obsidian**
 
 Canvas is more visual. Instead of:
 
@@ -302,7 +303,7 @@ We can put notes, text, images, links, etc. onto the Canvas and connect them. It
 
 ---
 
-## **Note Links in Obsidian**
+### **Note_Links_in_Obsidian**
 
 Obsidian isn't really powerful because it lets us make folders. It's powerful because we can write this using [[Basics of Mark Down File]]:
 
@@ -333,9 +334,22 @@ Flutter
 That's where Obsidian starts becoming more than just a folder containing Markdown files.
 
 
+---
+
+### Tags_in_obsidain
+
+We can use colorful tags only in Obsidian, like to indicate a category and by clicking on the tag we can see in which notes the tags are present
+Use #.... with no spacing to specify a tag
+
+#Center
+
+#Coding
+
+#Docs
+
 ___
 
-## **The Important Obsidian Pieces**
+### **The_Important_Obsidian_Pieces**
 
 We can think of Obsidian's core features like this:
 

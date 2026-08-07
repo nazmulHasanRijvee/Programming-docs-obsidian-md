@@ -1,25 +1,25 @@
 First create a File_name.md file with text editor or something else. we might need to rename it to README.md.text to README.md, enable file extension in the view of file explorer. To add a readme file in GitHub
 
 ---
-## Table of Contents
-- [Headings in Mark Down](#Headings in Mark Down)
-- [Text Styling](#Text Styling in MD)
-- [Paragraph & Line Break](#Paragraph & Line Break)
-- [Writing Lists](#Lists in Mark Down)
-- [Links in MD](##Links in MD)
-- [Images in MD](##Images in MD)
-- [Code Blocks in MD](##Code Blocks in MD)
-- [Blockquotes in MD](##Blockquotes in MD)
-- [Tables in MD](##Tables in MD)
-- [Horizontal Line in MD](##Horizontal Line in MD)
-- [Emoji in MD](##Emoji in MD)
-- [Collapsible Sections in MD](##Collapsible Sections in MD)
-- [Centering Content in MD](##Centering Content in MD)
-- [Keyboard Keys in MD](##Keyboard Keys in MD)
-- [Anchor Links in Mark Down](##Anchor Links in Mark Down)
+### Table of Contents
+- [Headings in Mark Down](#Headings_in_Markdown)
+- [Text Styling](#Text_Styling_in_MD)
+- [Paragraph & Line Break](#Paragraph_&_Line_Break)
+- [Writing Lists](#Lists_in_Markdown)
+- [Links in MD](#Links_in_MD)
+- [Images in MD](#Images_in_MD)
+- [Code Blocks in MD](#Code_Blocks_in_MD)
+- [Blockquotes in MD](#Blockquotes_in_MD)
+- [Tables in MD](##Tables_in_MD)
+- [Horizontal Line in MD](#Horizontal_Line_in_MD)
+- [Emoji in MD](#Emoji_in_MD)
+- [Collapsible Sections in MD](#Collapsible_Sections_in_MD)
+- [Centering Content in MD](#Centering_Content_in_MD)
+- [Keyboard Keys in MD](#Keyboard_Keys_in_MD)
+- [Anchor Links in Mark Down](#Anchor_Links_in_Markdown)
 
 ---
-## **Headings in Mark Down**
+### **Headings_in_Markdown**
 
 We can add headings and subheadings like title, section, subsection and more using # (single hash), ## (double) , ### (triple) and more. Like this:
 **# H1 - Project Title**
@@ -30,7 +30,7 @@ We can add headings and subheadings like title, section, subsection and more usi
 **###### H6**
 
 ---
-## Text Styling in MD
+### Text_Styling_in_MD
 
 we can make the text body bold by writing in a double star pair  **   **
 Italic by writing  the text in a single star pair * *
@@ -48,7 +48,7 @@ And inline code using single back tics pair **`  `**
 **`Inline code`**
 
 ---
-## Paragraph & Line Break
+### Paragraph_&_Line_Break
 
 We need to ad extra enter between two lines to go to new line
 **This is a paragraph**
@@ -59,7 +59,7 @@ Or we can enter two spaces after the first lie to go to new line
 **Line two**
 
 ---
-## Lists in Mark Down
+## Lists_in_Markdown
 
 We can make unordered list just using hyphen - and tab
 - Item
@@ -75,7 +75,7 @@ For task lists use hyphen -, third parentheses [ ] and x like this - [x]
 - [ ] Not done
 
 ---
-## Links in MD
+### Links_in_MD
 
 We can add links to words, when that word is clicked the user will be redirected to that link. We can do this by writing the word in third parentheses [ ] and link in the first parentheses ()
 [GitHub](https://github.com)
@@ -83,7 +83,7 @@ Or we can add the link directly
 https://github.com
 
 ---
-## Images in MD
+### Images_in_MD
 
 We can simply drop and drop the image in README editor. Or we can add manually using 
 !-[alt text]-(image-url), remove the hyphens
@@ -95,7 +95,7 @@ Image with link, when tapped will be redirected to link [ -! - [Logo](image-url)
 [ ![Logo](image-url)](https://link.com)
 
 ---
-## Code Blocks in MD
+### Code_Blocks_in_MD
 
 For in line code use single back ticks pair **`     `**
 **Use `print()` to log**
@@ -110,14 +110,14 @@ flutter pub get
 ```
 
 ---
-## Blockquotes in MD
+### Blockquotes_in_MD
 
 We can use is single right > for quote and double right arrow for nested quote >>
 > This is a quote
 > > Nested quote
 
 ---
-## Tables in MD
+### Tables_in_MD
 
 We need to follow this pattern for tables
 **| Feature | Status |**
@@ -139,7 +139,7 @@ Alignment using colon :
 |:---- |:------:| -----:|
 | L      | C         | R       |
 ___
-## Horizontal Line in MD
+### Horizontal_Line_in_MD
 
 We can use --- , *** and __ to create lines
 
@@ -147,13 +147,13 @@ We can use --- , *** and __ to create lines
 ***
 ___
 
-## Emoji in MD
+### Emoji_in_MD
 
 Add emojis directly
 🚀 ✨ 🔥 ✅ ❌ ⚠️ 🧠 🎯 📦
 
 ---
-## Collapsible Sections in MD
+### Collapsible_Sections_in_MD
 
 Using details and summary tags 
 
@@ -166,7 +166,7 @@ Hidden content here
 </details>
 
 ---
-## Centering Content in MD
+### Centering_Content_in_MD
 
 Using HTML’s div tag
 <div align="center">
@@ -174,14 +174,14 @@ Using HTML’s div tag
 </div>
 
 ___
-## Keyboard Keys in MD
+### Keyboard_Keys_in_MD
 
 Follow this pattern (It’ll show **Press ctr + c**):
 
 Press <kbd>Ctrl</kbd> + <kbd>C</kbd>
 
 ---
-## Highlighted Notes in MD
+### Highlighted_Notes_in_MD
 
 Use right arrow **>** and double star *…*
 
@@ -190,7 +190,7 @@ Use right arrow **>** and double star *…*
 >💡**Tip:** Useful info
 
 ---
-## Anchor Links in Mark Down
+### Anchor_Links_in_Markdown
 
 For table of contents **- [install] ** **(#heading or # Subheading)**
 - [Install](#install)
