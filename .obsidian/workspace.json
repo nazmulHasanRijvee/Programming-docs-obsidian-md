@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requets).md",
-                "mode": "preview",
+                "file": "git1_and_github_commands_documentation/Git Commit Message Rules.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Stacked PRs (Pull Requets)"
+              "title": "Git Commit Message Rules"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,11 +79,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "52b598486d4983b7",
@@ -191,7 +193,16 @@
   },
   "active": "5bf5b887905ba5d6",
   "lastOpenFiles": [
+    "andriea_app/Anti-Gravity Analysis.md",
+    "git1_and_github_commands_documentation/Git Commit Message Rules.md",
+    "git1_and_github_commands_documentation/df",
+    "git1_and_github_commands_documentation",
+    "flutter_documents/vscode_for_flutter/01. Setup and Creating Flutter Project.md",
+    "andriea_app",
+    "Untitled.base",
+    "Untitled 1.base",
     "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requets).md",
+    "flutter_documents/vscode_for_flutter",
     "mark_down_basics_for_writing/Basics of Mark Down File.md",
     "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requests)/The Tool or CLI (gh stack) to Manage Stacks.md",
     "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requests)/Introduction.md",
@@ -202,14 +213,10 @@
     "flutter_documents/f21_dio_and_retrofit_advanced_api_calling_in_flutter",
     "flutter_documents",
     "image-url.md",
-    "Untitled.base",
-    "basics_of_obsidian",
     "mark_down_basics_for_writing/something.md",
     "mark_down_basics_for_writing/nothing.md",
     "mark_down_basics_for_writing/Untitled.canvas",
-    "mark_down_basics_for_writing/Untitled.base",
     "Untitled.md",
-    "mark_down_basics_for_writing",
     "Welcome.md",
     "create a link.md"
   ]

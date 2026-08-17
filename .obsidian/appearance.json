@@ -1,5 +1,7 @@
 {
-  "theme": "moonstone",
-  "baseFontSize": 21,
-  "accentColor": ""
+  "theme": "obsidian",
+  "baseFontSize": 19,
+  "accentColor": "",
+  "cssTheme": "",
+  "nativeMenus": false
 }
