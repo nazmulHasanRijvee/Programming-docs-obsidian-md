@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/1. Riverpod SM.md",
+                "file": "tasks/Coding Task List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Riverpod SM"
+              "title": "Coding Task List"
+            }
+          },
+          {
+            "id": "0a540ca49fe236a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git1_and_github_commands_documentation/Git Commit Message Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Commit Message Rules"
+            }
+          },
+          {
+            "id": "b81a8276a6d8d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flutter_note_folder_structure/Folder Structure of The Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Folder Structure of The Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "26fede0b228f74d7",
@@ -185,8 +215,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1a0e5325e405168",
+  "active": "b81a8276a6d8d7e6",
   "lastOpenFiles": [
+    "git1_and_github_commands_documentation/Git Commit Message Rules.md",
+    "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requets).md",
+    "flutter_note_folder_structure/Folder Structure of The Notes.md",
+    "tasks/Coding Task List.md",
+    "draft/draft.md",
+    "tasks",
+    "draft/Career Plan.md",
+    "draft",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/1. Riverpod SM.md",
     "basics_of_obsidian/Basic Knowledge of Obsidian.md",
     "basics_of_obsidian/Basics of Mark Down File.md"
   ]

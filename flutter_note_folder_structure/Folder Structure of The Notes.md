@@ -48,7 +48,8 @@ Every state-management system we've studied, kept together so we can compare the
 - f10_flutter_databases_self_study
 - f18_parsing_json_and_reading_api_in_flutter
 - f20_rest_api_basics_flutter
-- f21_dio_and_retrofit_advanced_api_calling
+- f21_dio_package_advanced_api_calling_in_flutter
+- f22_retrofit_code_generation_with_dio
 
 ### 05_Firebase_and_Notifications
 
@@ -62,8 +63,8 @@ Every state-management system we've studied, kept together so we can compare the
 
 - f28_flutter_animations
 - f29_animation_transitions_flutter
-- f30_navigation_animations _(rename from "navigaton")_
-- f31_advanced_animations_rive_and_flutter _(rename from "advaned")_
+- f30_navigation_animations
+- f31_advanced_animations_rive_and_flutter
 - f32_flutter_splash_screen
 
 ### 07_Security_and_Auth
@@ -110,10 +111,10 @@ Third-party services/OS features we're bolting on, not core Flutter.
 
 ### 13_Code_Generation
 
-- f59_dart_build_runner_and_code_generation
+- f59_dart_build_runner_and_code_generation_basics
 - f62_json_serializable_code_generation
 
-### 14_Native_Interop_and_Platform_Channels
+### 14_Platform_Channels_and_Native_Interop
 
 Anything crossing the Dart ↔ native boundary: `MethodChannel`, `EventChannel`, Dart FFI, writing our own platform-specific plugin (the Kotlin/Swift/ObjC/Java side included). This does **not** belong in [11_Platform_Integrations](#11_Platform_Integrations) that folder is for *consuming* someone else's SDK (Maps, url_launcher); this one is for *building the bridge ourself*
 
