@@ -49,8 +49,7 @@
               "title": "Folder Structure of The Notes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "26fede0b228f74d7",
@@ -206,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "drivesync:Drivesync: Sync now": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -215,12 +214,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b81a8276a6d8d7e6",
+  "active": "e1a0e5325e405168",
   "lastOpenFiles": [
+    "basics_of_obsidian/DriveSync using Google Drive in Obsidian.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/2. ConsumerStateful Widget.md",
+    "tasks/Coding Task List.md",
+    "flutter_note_folder_structure/Folder Structure of The Notes.md",
     "git1_and_github_commands_documentation/Git Commit Message Rules.md",
     "git2_and_github_commands_part_two_undoing_and_advanced/GitHub Stacked PRs (Pull Requets).md",
-    "flutter_note_folder_structure/Folder Structure of The Notes.md",
-    "tasks/Coding Task List.md",
     "draft/draft.md",
     "tasks",
     "draft/Career Plan.md",
