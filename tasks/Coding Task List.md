@@ -3,13 +3,13 @@
 
 ### Flutter
 
-- [ ] Dart new features for private attributes
-- [ ] Go-router learning start
+- [x] Review note of runZonedGuarded and add FlutterError.onError and PlatformDispatcher
+- [ ] Go-router module-1 with practica usage
+- [x] How to write a proper GitHub issue
 - [ ] reformat docs to 16 and Aptos body
-- [ ] Flutter wasm for web in wp
 - [ ] Repository Architecture in Riverpod
-- [ ] Usage of remember me and locale repo
-- [ ] Dart Generators Function
+- [x] Usage of remember me and locale repo
+- [ ] Dart Generators Function, await for
 - [ ] Reorganize every doc on the go font size 16, font Aptos (body) zoom 100%
 
 ---
@@ -17,4 +17,4 @@
 ### Python
 
 - [ ] Python OOPs Decorator pattern
-- [ ] 
+- [ ] Python DI pattern

@@ -21,43 +21,42 @@ Core widget catalog + everything about how things _look_.
 - f11_part_2_of_responsive_ui_and_packages
 - f12_flutter_context_extras
 - f13_flutter_extras_of_basic
-- f14_part2_of_flutter_extras_of_basic
-- f15_advanced_ui_designs_of_flutter
+- f14_advanced_ui_designs_of_flutter
 
 ### 02_Navigation
 
-- f8_navigation_in_flutter
-- f9_navigator_two_or_go_router_advanced
+- f1_navigation_in_flutter
+- f2_navigator_two_or_go_router_advanced
 
 ### 03_State_Management
 
 Every state-management system we've studied, kept together so we can compare them side by side.
 
-- f34_state_management_flutter
-- f35_provider_state_management_flutter
-- f36_riverpod_state_management
-- f37_code_generation_using_@riverpod
-- f38_getx_state_management
-- f39_getx_media_query_theme_and_localization
-- f40_bloc_state_management
-- f41_part_two_of_bloc_state_management
-- f42_get_it_service_locator_flutter_advanced
+- f1_state_management_flutter
+- f2_provider_state_management_flutter
+- f3_riverpod_state_management
+- f4_code_generation_using_@riverpod
+- f5_getx_state_management
+- f6_getx_media_query_theme_and_localization
+- f7_bloc_state_management
+- f8_part_two_of_bloc_state_management
+- f9_get_it_service_locator_flutter_advanced
 
 ### 04_Networking_and_Data
 
-- f10_flutter_databases_self_study
-- f18_parsing_json_and_reading_api_in_flutter
-- f20_rest_api_basics_flutter
-- f21_dio_package_advanced_api_calling_in_flutter
-- f22_retrofit_code_generation_with_dio
+- f1_flutter_databases_self_study
+- f2_parsing_json_and_reading_api_in_flutter
+- f3_rest_api_basics_flutter
+- f4_dio_package_advanced_api_calling_in_flutter
+- f5_retrofit_code_generation_with_dio
 
 ### 05_Firebase_and_Notifications
 
-- f43_firebase_flutter
-- f44_firestore_flutter
-- f45_firebase_authentication_flutter
-- f46_firebase_crashlytics_and_analytics_for
-- f47_flutter_push_notifications
+- f1_firebase_flutter
+- f2_firestore_flutter
+- f3_firebase_authentication_flutter
+- f4_firebase_crashlytics_and_analytics_for
+- f5_flutter_push_notifications
 
 ### 06_Animations_and_Splash
 
@@ -76,13 +75,14 @@ Every state-management system we've studied, kept together so we can compare the
 
 Dev-environment and tooling notes — not app features, but things that make you productive.
 
-- f14_flutter_debug_and_android_studio_tools
-- f15_packages_of_flutter_self_study
-- f16_part_two_of_flutter_packages
-- f17_flutter_CLI_and_common_issues
-- f49_fvm_flutter_version_management
-- vscode_for_flutter _(rename → f60_vscode_for_flutter)_
-- mason_cli_for_flutter_app_template _(rename → f61_mason_cli_for_flutter_app_template)_
+- f1_flutter_debug_and_android_studio_tools
+- f2_packages_of_flutter_self_study
+- f3_part_two_of_flutter_packages
+- f4_flutter_CLI_and_common_issues
+- f5_flutter_internals_and_native_build
+- f6_fvm_flutter_version_management
+- f7_vscode_for_flutter
+- f8_mason_cli_for_flutter_app_template
 
 ### 09_Testing_and_Code_Quality
 
