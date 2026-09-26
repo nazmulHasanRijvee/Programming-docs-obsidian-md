@@ -2,7 +2,7 @@
 ---
 
 ### Flutter
-- [ ] Repository Architecture in Riverpod
+- [x] Repository Architecture in Riverpod
 - [ ] Go-router module-1 with practical usage
 - [ ] reformat docs to 16 and Aptos body
 - [ ] Dart Generators Function
