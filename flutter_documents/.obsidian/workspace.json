@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "c10f656161663e6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa64c6e5aba715a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a8f66c6273c6d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flutter_note_folder_structure/Folder Structure of The Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Folder Structure of The Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5d1e5bcc2312050",
+    "type": "split",
+    "children": [
+      {
+        "id": "9507c11eb1ef44f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705b3a5d3053c217",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af6ffeea0412c370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e5f4f61ac606022",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.7277526855469
+  },
+  "right": {
+    "id": "57bca83d0660194c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8d21a618ee329d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c04dc5d78f0061f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/15.  Riverpod Notifier Class (Modern).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "77eb92471af1ae9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tasks/Coding Task List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aa2ec8b4f5a91426",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1386e150f08f278c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d764d13a2c01a177",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tasks/Coding Task List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4df2b64e8cf6671c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 647.0999755859375,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "705b3a5d3053c217",
+  "lastOpenFiles": [
+    "flutter_note_folder_structure/test.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/13. Properties of state (AsyncValue) Object.md",
+    "flutter_note_folder_structure/Folder Structure of The Notes.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/30. UncontrolledProviderScope() in Riverpod.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/29. ProviderObserver in Riverpod (Logging).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/28. Riverpod Lint Rules (For Better Code Quality).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/27. Repository Cache Architecture in Riverpod.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/26. ref's All APIs List in Riverpod.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/25. ProviderException in Riverpod.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/24. ref.mounted in Riverpod.md",
+    "basics_of_obsidian/Basics of Mark Down File.md",
+    "basics_of_obsidian/DriveSync using Google Drive in Obsidian.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/23. Automatic Retry in Riverpod.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/22. Automatic Disposal in Riverpod (For Providers).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/18. One Riverpod Provider Per List Item in ListView or GridView.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/21. Firestore with Riverpod’s StreamProvider.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/20. StreamNotifier in Riverpod (Modern & Recommended).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/19. StreamSubscription in Riverpod (StreamProvider).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/17. Riverpod SM Unit Testing.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/16. ref.onDispose in Riverpod (Dispose alternatives and other APIs).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/15.  Riverpod Notifier Class (Modern).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/14. ref.invalidate() and Manual Refresh Method.md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/11. Family in Riverpod (Parameters in Provider).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/10. Riverpod DI (Dependency Injection).md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/9. Pausing or Resuming Support for Providers & ref.listen().md",
+    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/8. listenSelf() in Notifier Classes.md",
+    "flutter_documents/f2_navigation/f2_go_router_or_navigator_2_advanced_navigation",
+    "flutter_documents/f2_navigation",
+    "agents/rules",
+    "agents",
+    "python_note_folder_structure",
+    "copilot/copilot-conversations",
+    "copilot/skills/obsidian-cli/LICENSE",
+    "copilot/skills/obsidian-cli",
+    "copilot/skills/json-canvas/LICENSE",
+    "copilot/skills/json-canvas/references"
+  ]
+}
