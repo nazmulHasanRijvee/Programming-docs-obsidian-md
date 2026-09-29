@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aaa64c6e5aba715a",
+        "id": "200cdc92d6c2d815",
         "type": "tabs",
         "children": [
           {
-            "id": "8a8f66c6273c6d5e",
+            "id": "f2c80a6bf34c2bc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter_note_folder_structure/Folder Structure of The Notes.md",
+                "file": "flutter_documents/f2_navigation/f2_go_router_or_navigator_2_advanced_navigation/1. GoRouter Foundations.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Folder Structure of The Notes"
+              "title": "1. GoRouter Foundations"
             }
           }
         ]
@@ -203,9 +203,12 @@
   },
   "active": "705b3a5d3053c217",
   "lastOpenFiles": [
+    "basics_of_obsidian 1/Basics of Mark Down File.md",
+    "basics_of_obsidian 1/Basic Knowledge of Obsidian.md",
+    "basics_of_obsidian 1",
+    "flutter_note_folder_structure/Folder Structure of The Notes.md",
     "flutter_note_folder_structure/test.md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/13. Properties of state (AsyncValue) Object.md",
-    "flutter_note_folder_structure/Folder Structure of The Notes.md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/30. UncontrolledProviderScope() in Riverpod.md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/29. ProviderObserver in Riverpod (Logging).md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/28. Riverpod Lint Rules (For Better Code Quality).md",
@@ -227,8 +230,6 @@
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/14. ref.invalidate() and Manual Refresh Method.md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/11. Family in Riverpod (Parameters in Provider).md",
     "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/10. Riverpod DI (Dependency Injection).md",
-    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/9. Pausing or Resuming Support for Providers & ref.listen().md",
-    "flutter_documents/f3_state_management/f3_riverpod_state_management_doc/8. listenSelf() in Notifier Classes.md",
     "flutter_documents/f2_navigation/f2_go_router_or_navigator_2_advanced_navigation",
     "flutter_documents/f2_navigation",
     "agents/rules",
@@ -237,7 +238,6 @@
     "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/LICENSE",
     "copilot/skills/obsidian-cli",
-    "copilot/skills/json-canvas/LICENSE",
-    "copilot/skills/json-canvas/references"
+    "copilot/skills/json-canvas/LICENSE"
   ]
 }

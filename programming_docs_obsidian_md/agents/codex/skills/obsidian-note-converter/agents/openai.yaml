@@ -1,0 +1,7 @@
+interface:
+  display_name: "Obsidian Note Converter"
+  short_description: "Convert DOCX-style notes to Obsidian Markdown"
+  default_prompt: "Use $obsidian-note-converter to convert this DOCX-style note into Obsidian Markdown."
+
+policy:
+  allow_implicit_invocation: true
