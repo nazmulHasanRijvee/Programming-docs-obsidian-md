@@ -3,10 +3,11 @@
 
 ### Flutter
 - [ ] go_router module 2 
+- [x] Migrated one Dart doc
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
 - [ ] Riverpod `ProviderContainer()` & `UncontrolledProviderScope()` for bootstrapping
-- [ ] Reformat every doc on the go font size 16, font Aptos (body) zoom 100%
+- [ ] migrate to obsidian from docx
 
 ---
 

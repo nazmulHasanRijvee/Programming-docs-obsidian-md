@@ -1,15 +1,3 @@
-Listed directory routes
-Listed directory core
-Listed directory router
-Viewed router.dart:1-47
-Viewed redirect_gate.dart:1-52
-Listed directory router_state
-Viewed router_state_provider.dart:1-44
-Viewed riverpod_extensions.dart:1-42
-
-Here is the complete architectural walkthrough of how [TokenManager](file:///c:/flutter_my_projects/flutter_app_template/lib/src/data/services/network/auth/token_manager.dart#L18), [RouterRepository](file:///c:/flutter_my_projects/flutter_app_template/lib/src/domain/repositories/router_repository.dart), and [GoRouter](file:///c:/flutter_my_projects/flutter_app_template/lib/src/presentation/core/router/router.dart#L30) cooperate to achieve **reactive, state-driven screen navigation** without imperative routing calls.
-
----
 
 ### 1. High-Level Architecture & Layer Responsibility
 

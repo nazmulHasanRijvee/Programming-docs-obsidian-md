@@ -60,7 +60,7 @@ feat (api)! : change endpoint #909
 For more in-depth description if needed. Add details below the first line, separated by a blank line
 
 ```git
-feat(ui): add login button #123
+feat (ui): add login button #123
 
 - Add styled button component
 - Implement click handler
@@ -73,7 +73,7 @@ Include issue-number (e.g., #123) to reference an issue. Used for tracking purpo
 Multiple issues: List as #123 #124 or in the body. Example:
 
 ``` git
-fix(ui): resolve button overlap
+fix (ui): resolve button overlap
 
 - Closes #456
 ```
