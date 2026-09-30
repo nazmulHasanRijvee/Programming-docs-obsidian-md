@@ -1,4 +1,3 @@
-
 ## What I think comes next
 
 I'd rank the major directions like this for someone starting from software:

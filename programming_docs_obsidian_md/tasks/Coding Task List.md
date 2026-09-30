@@ -2,7 +2,7 @@
 ---
 
 ### Flutter
-- [ ] go_router module 2 
+- [x] go_router module 2 
 - [x] Migrated one Dart doc
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
