@@ -5,7 +5,8 @@
 
 - [x] Migrate other half of Dart OOP doc
 - [ ] Migrate full part 2 of Dart OOP doc
-- [ ] **go_router** module 4
+- [x] **go_router** module 4
+- [ ] **go_router** module 5 (shell route)
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
 - [ ] Riverpod `ProviderContainer()` & `UncontrolledProviderScope()` for bootstrapping
