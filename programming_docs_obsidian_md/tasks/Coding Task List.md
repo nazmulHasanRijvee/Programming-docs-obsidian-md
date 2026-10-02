@@ -2,11 +2,10 @@
 ---
 
 ### Flutter
-- [x] go_router module 2 
-- [x] Migrated one Dart doc
-- [x] Migrate half of Dart Stream doc
-- [x] Migrate half of Dart oop doc
-- [x] go_router module 3 (Navigation)
+
+- [x] Migrate other half of Dart OOP doc
+- [ ] Migrate full part 2 of Dart OOP doc
+- [ ] **go_router** module 4
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
 - [ ] Riverpod `ProviderContainer()` & `UncontrolledProviderScope()` for bootstrapping
