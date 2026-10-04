@@ -5,7 +5,8 @@
 
 - [x] migrate dart extra throw exception and more
 - [ ] migrate other half of dart extra throw exception and more
-- [ ] go_router module 6 redirection
+- [x] go_router module 6 redirection
+- [ ] go_router module 7 error handling
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
 - [ ] Riverpod `ProviderContainer()` & `UncontrolledProviderScope()` for bootstrapping
