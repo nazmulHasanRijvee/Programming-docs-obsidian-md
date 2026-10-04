@@ -3,9 +3,8 @@
 
 ### Flutter
 
-- [ ] migrate dart extra throw exception and more
-- [x] I'm tired lets work tomorrow
-- [x] **go_router** module 5 (shell route)
+- [x] migrate dart extra throw exception and more
+- [ ] migrate other half of dart extra throw exception and more
 - [ ] go_router module 6 redirection
 - [ ] Dart Generators Function (Verify usefulness)
 - [ ] Hero Widget
