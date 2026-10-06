@@ -3,9 +3,7 @@
 
 ### Flutter
 
-- [x] migrate dart extra throw exception and more
-- [ ] migrate all dart docs in one go
-- [x] go_router module 6 redirection
+- [ ] lets see
 - [ ] go_router module 7 error handling
 - [ ] **Dart** Generators Function (Verify usefulness)
 - [ ] Hero Widget
