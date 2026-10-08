@@ -3,7 +3,7 @@
 
 ### Flutter
 
-- [ ] migrate all git docs
+- [x] migrate all git docs
 - [ ] go_router module 7 error handling
 - [ ] **Dart** Generators Function (Verify usefulness)
 - [ ] Hero Widget
