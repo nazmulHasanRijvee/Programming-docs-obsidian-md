@@ -2,6 +2,8 @@
 ## FLUTTER
 
 - [ ] GoRouter or Navigator 2.0
+- [ ] Riverpod bootstrapping
+- [ ] Flutter gen and Flutter launcher icon package to change the icons in the app
 - [ ] Flutter animate
 - [ ] Riverpod code generation using @riverpod annotation
 - [ ] Method or Platform Channels (turn on mobile flash using it also bidirectional communication to change state in the UI)

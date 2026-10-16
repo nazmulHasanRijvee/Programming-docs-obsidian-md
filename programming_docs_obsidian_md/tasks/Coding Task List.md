@@ -3,7 +3,9 @@
 
 ### Flutter
 
-- [x] migrate all git docs
+- [x] Revise all basic Dart code
+- [ ] Revise Dart async coding
+- [ ] Revies Dio + Retrofit
 - [ ] go_router module 7 error handling
 - [ ] **Dart** Generators Function (Verify usefulness)
 - [ ] Hero Widget
@@ -14,5 +16,5 @@
 
 ### Python
 
-- [x] Python OOPs Decorator pattern
-- [x] Python DI pattern
+- [ ] Revise all Python Code + OOP
+- [ ] Start async io and **httpx** for learning

@@ -1,4 +1,4 @@
-\# First create a File_name.md file with text editor or something else. we might need to rename it to README.md.text to README.md, enable file extension in the view of file explorer. To add a readme file in GitHub
+ First create a File_name.md file with text editor or something else. we might need to rename it to README.md.text to README.md, enable file extension in the view of file explorer. To add a readme file in GitHub
 
 ---
 ### Table of Contents
