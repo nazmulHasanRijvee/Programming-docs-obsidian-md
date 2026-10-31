@@ -3,9 +3,10 @@
 
 ### Flutter
 
-- [x] Revise all basic Dart code
-- [ ] Revise Dart async coding
-- [ ] Revies Dio + Retrofit
+- [x] migrate to theme architecture
+- [ ] Responsive UI using screen util and bootstrap in movie app
+- [ ] json_serialization application
+- [ ] work on the UI
 - [ ] go_router module 7 error handling
 - [ ] **Dart** Generators Function (Verify usefulness)
 - [ ] Hero Widget
@@ -16,5 +17,4 @@
 
 ### Python
 
-- [ ] Revise all Python Code + OOP
 - [ ] Start async io and **httpx** for learning

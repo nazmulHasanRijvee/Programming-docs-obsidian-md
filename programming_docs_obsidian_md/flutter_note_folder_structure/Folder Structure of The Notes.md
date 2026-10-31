@@ -125,6 +125,6 @@ Anything crossing the Dart ↔ native boundary: `MethodChannel`, `EventChannel`,
 - **f42 (get_it / service locator)** → filed under State Management, not Tools, because it's a DI pattern you use _for_ state, not a CLI/editor tool.
 - **f47 (push notifications)** → filed under Firebase, since FCM is the near-universal backend for it. If your notes actually cover OS-level notification APIs generically, move it to Platform_Integrations instead.
 - **f48 (Google Maps)** and **f50 (localization)** → filed under Platform_Integrations rather than Firebase/UI, since they're SDK integrations, not core Flutter or Firebase.
-- **f11 (App customization)** → filed under Deployment, on the assumption it's app icon/name/package-id setup (pre-release config). If it's actually about widget-level theming/customization, it belongs in 01_Widgets_and_UI instead.
+- **f11 (App customization)** → filed under Deployment, on the assumption it's app icon/name/package-id setup (pre-release config).
 
 If any of those four don't match what's actually inside the doc, move that one file — the rest of the structure holds either way.
